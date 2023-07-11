@@ -25,6 +25,6 @@ Pull requester kabul edilir. Büyük değişiklikler için , lütfen önce neyi 
 
 
 ## License
-[MIT](cd kodluyoruzilkrepo
-code .)
+[MIT](https://www.google.com.tr/?client=safari
+)
 
