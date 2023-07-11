@@ -25,6 +25,6 @@ Pull requester kabul edilir. Büyük değişiklikler için , lütfen önce neyi 
 
 
 ## License
-[MIT] (cd kodluyoruzilkrepo
+[MIT](cd kodluyoruzilkrepo
 code .)
 
